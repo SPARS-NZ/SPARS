@@ -3,15 +3,23 @@ SPARS - Scalable Paging Automatic Relay System is a notification system that tak
 
 To get set up with SPARS (Currently in the Testing Phase) follow the instructions below:
 
-1. Install PUSHOVER, a notification application avalible on almost all platforms,
+## 1. 
+Install PUSHOVER, a notification application avalible on almost all platforms,
 
-2. Launch the client and it will walk you through creating a Pushover account and registering your device with PUSHOVERS servers.
+## 2.
+Launch the client and it will walk you through creating a Pushover account and registering your device with PUSHOVERS servers.
 
-3. You'll get a new User Key e-mailed to you (which you can always find on your dashboard or through the Settings menu of the Pushover client app on your device). Your User Key is a randomly generated identifier which allows other apps like SPARS to send Pushover notifications to your devices.
+## 3.
+You'll get a new User Key e-mailed to you (which you can always find on your dashboard or through the Settings menu of the Pushover client app on your device). Your User Key is a randomly generated identifier which allows other apps like SPARS to send Pushover notifications to your devices.
 
-6. Provide your PUSHOVER User Key to SPARS admin
+## SPARS SETUP FORM: 
+https://forms.gle/gcvTe2bLNadKRFip6
 
-7. Choose your custom filter for your notifications and provide it to SPARS admin
+## 6.
+Provide your PUSHOVER User Key to SPARS form
+
+## 7.
+Choose your custom filter for your notifications and provide it to SPARS form
    - FENZ Appliances / Callsigns 
    - Ambulance Callsigns
    - Suburbs to Monitor for Ambulance calls and the priority of notifications for all call signs
@@ -53,6 +61,3 @@ To get set up with SPARS (Currently in the Testing Phase) follow the instruction
    
 
 For more information on PUSHOVER (which is a separate service to SPARS) please see their website: https://support.pushover.net/i7-what-is-pushover-and-how-do-i-use-it
-
-
-
