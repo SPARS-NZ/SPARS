@@ -9,9 +9,9 @@ To get set up with SPARS (Currently in the Testing Phase) follow the instruction
 
 3. You'll get a new User Key e-mailed to you (which you can always find on your dashboard or through the Settings menu of the Pushover client app on your device). Your User Key is a randomly generated identifier which allows other apps like SPARS to send Pushover notifications to your devices.
 
-6. Provide your PUSHOVER User Key to SPARS
+6. Provide your PUSHOVER User Key to SPARS admin
 
-7. Choose your custom filter for your notifications
+7. Choose your custom filter for your notifications and provide it to SPARS admin
    - FENZ Appliances / Callsigns 
    - Ambulance Callsigns
    - Suburbs to Monitor for Ambulance calls and the priority of notifications for all call signs
